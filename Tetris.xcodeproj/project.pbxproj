@@ -72,6 +72,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AD3A4B711C5E9FBC0011C688 /* Tetris */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Tetris;
+			sourceTree = "<group>";
+		};
 		ADBE14711C58811100980999 = {
 			isa = PBXGroup;
 			children = (
@@ -95,6 +102,7 @@
 		ADBE147C1C58811100980999 /* Tetris */ = {
 			isa = PBXGroup;
 			children = (
+				AD3A4B711C5E9FBC0011C688 /* Tetris */,
 				ADBE147D1C58811100980999 /* AppDelegate.swift */,
 				ADBE147F1C58811100980999 /* ViewController.swift */,
 				ADBE14811C58811100980999 /* Assets.xcassets */,
@@ -475,6 +483,7 @@
 				ADBE14A11C58811100980999 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADBE14A21C58811100980999 /* Build configuration list for PBXNativeTarget "TetrisTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +492,7 @@
 				ADBE14A41C58811100980999 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADBE14A51C58811100980999 /* Build configuration list for PBXNativeTarget "TetrisUITests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +501,7 @@
 				ADBE14A71C58811100980999 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
